@@ -10,18 +10,10 @@ import juegomemoria.Board;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import javafx.event.ActionEvent;
-import javafx.scene.control.Button;
+
 
 public class AppController {
     
-    @FXML private Button reiniciar;
-    
-    @FXML
-    private void reiniciar(ActionEvent event) throws FileNotFoundException {
-        System.out.println("Boton oprimido");
-    }
-
     @FXML
     public GridPane gameMatrix;
 
