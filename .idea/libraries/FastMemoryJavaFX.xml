@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FastMemoryJavaFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FastMemoryJavaFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
